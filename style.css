@@ -35,3 +35,32 @@ body{
     font-weight: var(--weight-heavy);
     color: var(--color-veryDarkBlue);
 }
+.card-container{
+    display: grid;
+    row-gap: 1rem;
+}
+.theme-card{
+    border-radius: 0.5rem;
+    font-size: 0.85rem;
+
+    padding: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.theme-card > img{
+    position:relative;
+    right: -100%;
+    transform: translateX(-100%);
+    margin-top: 2rem;
+}
+.supervisor{
+    border-top: 0.3rem solid var(--color-cyan);
+}
+.team-builder{
+    border-top: 0.3rem solid var(--color-red);
+}
+.karma{
+    border-top: 0.3rem solid var(--color-orange);
+}
+.calculator{
+    border-top: 0.3rem solid var(--color-blue);
+}
