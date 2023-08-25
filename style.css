@@ -1,0 +1,16 @@
+:root{
+/* PRIMARIES */
+--color-red: hsl(0, 78%, 62%);
+--color-cyan: hsl(180, 62%, 55%);
+--color-orange: hsl(34, 97%, 64%);
+--color-blue: hsl(212, 86%, 64%);
+/* NEUTRALS */
+--color-veryDarkBlue: hsl(234, 12%, 34%);
+--color-grayishBlue: hsl(229, 6%, 66%);
+--color-veryLightGray: hsl(0, 0%, 98%);
+
+--weight-light : 200;
+--weight-normal : 400;
+--weight-heavy : 600;
+
+}
