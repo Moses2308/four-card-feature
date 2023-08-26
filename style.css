@@ -56,6 +56,7 @@ body {
 }
 .theme__title {
   color: var(--color-veryDarkBlue);
+  margin-bottom: 0.5rem;
 }
 .supervisor {
   border-top: 0.3rem solid var(--color-cyan);
