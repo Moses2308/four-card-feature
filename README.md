@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Moses2308/four-card-feature)
+- Live Site URL: [Netlify](https://melodious-granita-53c6f6.netlify.app/)
 
 ## My process
 
